@@ -1,7 +1,7 @@
 id,time,details
-4,0700,breakfast
+8,0900,run
 5,1000,coffee
 2,1200,lunch
 6,1800,dinner
 3,2100,bed
-7,2355,bong time
+10,2130,turn off TV
