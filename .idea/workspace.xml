@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ca70283-26f8-4474-9be8-32fd0c23d808" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/easy_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/easy_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,12 +14,35 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="easy_28.py" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="easy_28.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy_28.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+            <state relative-caret-position="513">
+              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="easy_29.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easy_29.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="15" column="83" selection-start-line="15" selection-start-column="83" selection-end-line="15" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="easy_30.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/easy_30.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="poem.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/poem.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -70,12 +94,15 @@
         <option value="$PROJECT_DIR$/easy_27.py" />
         <option value="$PROJECT_DIR$/easy_6.py" />
         <option value="$PROJECT_DIR$/easy_28.py" />
+        <option value="$PROJECT_DIR$/poem.txt" />
+        <option value="$PROJECT_DIR$/easy_29.py" />
+        <option value="$PROJECT_DIR$/easy_30.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
+    <option name="x" value="262" />
+    <option name="y" value="206" />
     <option name="width" value="1940" />
     <option name="height" value="1170" />
   </component>
@@ -87,7 +114,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,8 +125,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -115,7 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.easy_28">
+  <component name="RunManager" selected="Python.easy_29">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -134,24 +161,6 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
-    </configuration>
-    <configuration name="easy_25" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="dailyprogrammer" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy_25.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="easy_26" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dailyprogrammer" />
@@ -207,6 +216,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="easy_29" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dailyprogrammer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy_29.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="easy_6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dailyprogrammer" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -248,19 +275,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Python.easy_25" />
       <item itemvalue="Python.easy_26" />
       <item itemvalue="Python.easy_27" />
       <item itemvalue="Python.easy_28" />
       <item itemvalue="Python.easy_6" />
+      <item itemvalue="Python.easy_29" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.easy_29" />
         <item itemvalue="Python.easy_28" />
         <item itemvalue="Python.easy_6" />
         <item itemvalue="Python.easy_27" />
         <item itemvalue="Python.easy_26" />
-        <item itemvalue="Python.easy_25" />
       </list>
     </recent_temporary>
   </component>
@@ -290,13 +317,12 @@
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32889965" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info active="true" anchor="right" id="Run" order="8" visible="true" weight="0.3885906" />
+      <window_info anchor="right" id="Run" order="8" weight="0.9456376" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.17181209" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.329602" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17583893" />
       <window_info id="Learn" order="7" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -307,38 +333,39 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.329602" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="DB Execution Console" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Run" order="8" weight="0.3885906" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="bottom" id="Message" order="1" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17181209" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="DB Execution Console" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info id="Favorites" order="8" side_tool="true" />
-      <window_info id="Image Layers" order="4" />
+      <window_info anchor="right" id="Run" order="8" weight="0.3885906" />
+      <window_info id="DB Browser" order="1" weight="0.3295302" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="6" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.329602" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Learn" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32889965" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39800996" />
       <window_info id="Capture Tool" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info id="DB Browser" order="1" weight="0.3295302" />
+      <window_info id="Favorites" order="8" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -387,11 +414,7 @@
     </entry>
     <entry file="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3/datetime.pyi">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4548">
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-4548" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/easy_13.py">
@@ -450,9 +473,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quote_scraping_project.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/quote_scraping_project.txt" />
     <entry file="file://$PROJECT_DIR$/int_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -470,12 +491,8 @@
     <entry file="file://$PROJECT_DIR$/../udemy-python-tim/fileio.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/left_justify.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/right_justify.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/left_justify.txt" />
+    <entry file="file://$PROJECT_DIR$/right_justify.txt" />
     <entry file="file://$PROJECT_DIR$/justify.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -605,9 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#263#276#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -634,10 +648,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/easy_28.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        <state relative-caret-position="513">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://C:/Python36-32/Lib/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19634" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poem.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy_29.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="83" selection-start-line="15" selection-start-column="83" selection-end-line="15" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy_30.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
