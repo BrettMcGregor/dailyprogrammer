@@ -20,10 +20,6 @@ def gregory_leibniz():
         yield pi
 
 
-# x = gregory_leibniz()
-# for i in range(100000):
-#     print(next(x))
-
 def n_seq():
     x, y, z = 2, 3, 4
     while True:
@@ -31,11 +27,6 @@ def n_seq():
         x += 2
         y += 2
         z += 2
-
-
-# x = n_seq()
-# for i in range(10):
-#     print(next(x))
 
 
 def nilakantha():
