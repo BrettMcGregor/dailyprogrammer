@@ -34,3 +34,4 @@ def palindrome(s):
 
 print(palindrome("poem.txt"))
 print(palindrome("hannah"))
+print(palindrome("not a palindrome"))
